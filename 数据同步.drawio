@@ -163,6 +163,9 @@
         <mxCell id="DT_HVZNL3CEQArVoj5VR-49" value="10、Doris" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="620" y="1230" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="DT_HVZNL3CEQArVoj5VR-52" value="Kafka 同步 doris存在问题：&lt;div style=&quot;&quot;&gt;关键字处理时使用了添加``来处理，&lt;/div&gt;&lt;div&gt;但是当doris采用FE方式连接时，此操作会导致&lt;/div&gt;&lt;div&gt;doris将`字段名`作为整体读取，从而导致任务失败&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="880" y="150" width="290" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
