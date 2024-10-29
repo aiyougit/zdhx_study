@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.2">
   <diagram name="第 1 页" id="onV7RVTyQFb5j97IhT4-">
-    <mxGraphModel dx="2816" dy="1431" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1126" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -165,6 +165,11 @@
         <mxCell id="DT_HVZNL3CEQArVoj5VR-48" value="9、GaussDB" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="615" y="1201" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="DT_HVZNL3CEQArVoj5VR-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DT_HVZNL3CEQArVoj5VR-49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="880" y="1245" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="DT_HVZNL3CEQArVoj5VR-49" value="10、Doris" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="620" y="1230" width="80" height="30" as="geometry" />
         </mxCell>
@@ -172,7 +177,10 @@
           <mxGeometry x="880" y="150" width="290" height="70" as="geometry" />
         </mxCell>
         <mxCell id="DT_HVZNL3CEQArVoj5VR-54" value="Oracle本身字段长度有限制（不超过30字符串）&lt;div&gt;加“_temp”的关键字处理方式不合适&lt;br&gt;需要优化&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="920" y="424" width="280" height="60" as="geometry" />
+          <mxGeometry x="920" y="425" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DT_HVZNL3CEQArVoj5VR-56" value="确保端口号一定要正确&lt;div&gt;配置错误的端口任务依然能正常运行&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="880" y="1230" width="220" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
