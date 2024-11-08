@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3">
   <diagram name="第 1 页" id="onV7RVTyQFb5j97IhT4-">
-    <mxGraphModel dx="1126" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1460" dy="742" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -133,26 +133,31 @@
         <mxCell id="DT_HVZNL3CEQArVoj5VR-28" value="9、SFTP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="615" y="812" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="LfuiG8hJ7dZHSzCygwYr-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DT_HVZNL3CEQArVoj5VR-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="870" y="857" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="DT_HVZNL3CEQArVoj5VR-29" value="10、RestAPI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="605" y="842" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DT_HVZNL3CEQArVoj5VR-30" value="11、ElasticSearch" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="590" y="872" width="120" height="30" as="geometry" />
+          <mxGeometry x="590" y="1013" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DT_HVZNL3CEQArVoj5VR-31" value="12、MaxCompute" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="590" y="902" width="120" height="30" as="geometry" />
+          <mxGeometry x="590" y="1043" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DT_HVZNL3CEQArVoj5VR-32" value="13、GaussDB" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="600" y="932" width="100" height="30" as="geometry" />
+          <mxGeometry x="600" y="1073" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Huo47lQmHuI5WuCNfdId-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DT_HVZNL3CEQArVoj5VR-33" target="Huo47lQmHuI5WuCNfdId-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DT_HVZNL3CEQArVoj5VR-33" value="14、Doris" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="610" y="962" width="80" height="30" as="geometry" />
+          <mxGeometry x="610" y="1103" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DT_HVZNL3CEQArVoj5VR-34" value="15、本地文件" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="600" y="992" width="100" height="30" as="geometry" />
+          <mxGeometry x="600" y="1133" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DT_HVZNL3CEQArVoj5VR-36" value="1、MySQL" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="670" y="2890" width="80" height="30" as="geometry" />
@@ -199,7 +204,7 @@
           <mxGeometry x="930" y="3160" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Huo47lQmHuI5WuCNfdId-3" value="报错：[DATA_QUALITY_ERROR]&lt;br&gt;主要是因为字段映射中类型长度不匹配导致的。&lt;br&gt;解决办法 找到doris对应输出的日志查看具体字段不适配：&lt;br&gt;http://bigdata05:8043/api/_load_error_log?file=__shard_873/error_log_insert_stmt_784428be79d41a7b-ced6b617059058b_784428be79d41a7b_ced6b617059058b" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="960" y="921.5" width="330" height="111" as="geometry" />
+          <mxGeometry x="960" y="1062.5" width="330" height="111" as="geometry" />
         </mxCell>
         <mxCell id="LfuiG8hJ7dZHSzCygwYr-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LfuiG8hJ7dZHSzCygwYr-3">
           <mxGeometry relative="1" as="geometry">
@@ -217,6 +222,12 @@
         </mxCell>
         <mxCell id="LfuiG8hJ7dZHSzCygwYr-9" value="默认通过Jdbc连接写入效率很低" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="765" y="320" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LfuiG8hJ7dZHSzCygwYr-11" value="批量同步时，会因为批次过多，接口断开，导致任务执行失败" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="891" y="842" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LfuiG8hJ7dZHSzCygwYr-12" value="目前均才有zeta引擎" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="875" y="638" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
