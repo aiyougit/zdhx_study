@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.4">
   <diagram name="第 1 页" id="onV7RVTyQFb5j97IhT4-">
-    <mxGraphModel dx="1460" dy="742" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2968" dy="668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -88,7 +88,7 @@
         <mxCell id="DT_HVZNL3CEQArVoj5VR-19" value="作为目标：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="530" y="2990" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LfuiG8hJ7dZHSzCygwYr-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DT_HVZNL3CEQArVoj5VR-20">
+        <mxCell id="LfuiG8hJ7dZHSzCygwYr-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DT_HVZNL3CEQArVoj5VR-20" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="760" y="335" as="targetPoint" />
           </mxGeometry>
@@ -116,12 +116,12 @@
         <mxCell id="DT_HVZNL3CEQArVoj5VR-25" value="6、SQL Server" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="600" y="471" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LfuiG8hJ7dZHSzCygwYr-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DT_HVZNL3CEQArVoj5VR-26" target="LfuiG8hJ7dZHSzCygwYr-3">
+        <mxCell id="LfuiG8hJ7dZHSzCygwYr-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="DT_HVZNL3CEQArVoj5VR-26" target="LfuiG8hJ7dZHSzCygwYr-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="850" y="595" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LfuiG8hJ7dZHSzCygwYr-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DT_HVZNL3CEQArVoj5VR-26" target="LfuiG8hJ7dZHSzCygwYr-4">
+        <mxCell id="LfuiG8hJ7dZHSzCygwYr-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="DT_HVZNL3CEQArVoj5VR-26" target="LfuiG8hJ7dZHSzCygwYr-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DT_HVZNL3CEQArVoj5VR-26" value="7、Hive" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
@@ -133,7 +133,7 @@
         <mxCell id="DT_HVZNL3CEQArVoj5VR-28" value="9、SFTP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="615" y="812" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LfuiG8hJ7dZHSzCygwYr-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DT_HVZNL3CEQArVoj5VR-29">
+        <mxCell id="LfuiG8hJ7dZHSzCygwYr-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DT_HVZNL3CEQArVoj5VR-29" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="870" y="857" as="targetPoint" />
           </mxGeometry>
@@ -206,28 +206,61 @@
         <mxCell id="Huo47lQmHuI5WuCNfdId-3" value="报错：[DATA_QUALITY_ERROR]&lt;br&gt;主要是因为字段映射中类型长度不匹配导致的。&lt;br&gt;解决办法 找到doris对应输出的日志查看具体字段不适配：&lt;br&gt;http://bigdata05:8043/api/_load_error_log?file=__shard_873/error_log_insert_stmt_784428be79d41a7b-ced6b617059058b_784428be79d41a7b_ced6b617059058b" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="960" y="1062.5" width="330" height="111" as="geometry" />
         </mxCell>
-        <mxCell id="LfuiG8hJ7dZHSzCygwYr-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LfuiG8hJ7dZHSzCygwYr-3">
+        <mxCell id="LfuiG8hJ7dZHSzCygwYr-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LfuiG8hJ7dZHSzCygwYr-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1090" y="555" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LfuiG8hJ7dZHSzCygwYr-3" value="Spark执行" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LfuiG8hJ7dZHSzCygwYr-3" value="Spark执行" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="900" y="540" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LfuiG8hJ7dZHSzCygwYr-4" value="Zeta执行" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LfuiG8hJ7dZHSzCygwYr-4" value="Zeta执行" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="900" y="670" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LfuiG8hJ7dZHSzCygwYr-7" value="1、即使同类型（Varchar 目标也是 Varchar）也可能会报错类型转换问题（与Spark版本有关系）&lt;div&gt;Caused by: java.lang.ClassCastException: java.lang.Byte cannot be cast to org.apache.spark.unsafe.types.UTF8String&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="LfuiG8hJ7dZHSzCygwYr-7" value="1、即使同类型（Varchar 目标也是 Varchar）也可能会报错类型转换问题（与Spark版本有关系）&lt;div&gt;Caused by: java.lang.ClassCastException: java.lang.Byte cannot be cast to org.apache.spark.unsafe.types.UTF8String&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1100" y="520" width="660" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LfuiG8hJ7dZHSzCygwYr-9" value="默认通过Jdbc连接写入效率很低" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="LfuiG8hJ7dZHSzCygwYr-9" value="默认通过Jdbc连接写入效率很低" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="765" y="320" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LfuiG8hJ7dZHSzCygwYr-11" value="批量同步时，会因为批次过多，接口断开，导致任务执行失败" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="LfuiG8hJ7dZHSzCygwYr-11" value="批量同步时，会因为批次过多，接口断开，导致任务执行失败" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="891" y="842" width="350" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LfuiG8hJ7dZHSzCygwYr-12" value="目前均才有zeta引擎" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="LfuiG8hJ7dZHSzCygwYr-12" value="目前均才有zeta引擎" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="875" y="638" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JaJoa6QkZzQ0IBSxrqLM-3" value="同步速度影响因素" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1550" y="150" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JaJoa6QkZzQ0IBSxrqLM-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="JaJoa6QkZzQ0IBSxrqLM-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1472.3076923076924" y="680" as="sourcePoint" />
+            <mxPoint x="-1230" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JaJoa6QkZzQ0IBSxrqLM-6" value="画布模式----算子" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1560" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JaJoa6QkZzQ0IBSxrqLM-7" value="目前平台已经支持的：" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1220" y="395" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JaJoa6QkZzQ0IBSxrqLM-9" value="&lt;span style=&quot;&quot;&gt;1、值转换&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1030" y="350" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JaJoa6QkZzQ0IBSxrqLM-11" value="&lt;span style=&quot;&quot;&gt;2、字符串替换&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1030" y="380" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JaJoa6QkZzQ0IBSxrqLM-12" value="&lt;div&gt;&lt;span style=&quot;&quot;&gt;3、字段分割&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1030" y="410" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JaJoa6QkZzQ0IBSxrqLM-13" value="&lt;div&gt;&lt;span style=&quot;&quot;&gt;4、新增字段&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1030" y="441" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JaJoa6QkZzQ0IBSxrqLM-14" value="&lt;div&gt;&lt;span style=&quot;&quot;&gt;5、数据脱敏 ----&amp;gt; 脱敏&amp;amp;加密&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1030" y="471" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JaJoa6QkZzQ0IBSxrqLM-15" value="&lt;div&gt;&lt;span style=&quot;&quot;&gt;6、SQL节点&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1030" y="510" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
