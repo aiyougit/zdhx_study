@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.4">
   <diagram name="第 1 页" id="onV7RVTyQFb5j97IhT4-">
-    <mxGraphModel dx="6593" dy="2839" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4271" dy="2170" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -229,14 +229,14 @@
         <mxCell id="LfuiG8hJ7dZHSzCygwYr-12" value="目前均才有zeta引擎" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="875" y="638" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JaJoa6QkZzQ0IBSxrqLM-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="JaJoa6QkZzQ0IBSxrqLM-6">
+        <mxCell id="JaJoa6QkZzQ0IBSxrqLM-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JaJoa6QkZzQ0IBSxrqLM-6" target="JaJoa6QkZzQ0IBSxrqLM-88">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1462.3076923076924" y="1180" as="sourcePoint" />
             <mxPoint x="-1220" y="920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JaJoa6QkZzQ0IBSxrqLM-6" value="画布模式----算子" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1550" y="1180" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2010" y="1173.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JaJoa6QkZzQ0IBSxrqLM-7" value="目前平台已经支持的：" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1210" y="895" width="140" height="60" as="geometry" />
@@ -260,27 +260,27 @@
           <mxGeometry x="-1040" y="993" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JaJoa6QkZzQ0IBSxrqLM-18" value="字符串处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1230" y="1256" width="90" height="30" as="geometry" />
+          <mxGeometry x="-1210" y="1626" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JaJoa6QkZzQ0IBSxrqLM-19" value="数值处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1230" y="1630" width="90" height="30" as="geometry" />
+          <mxGeometry x="-1210" y="2000" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JaJoa6QkZzQ0IBSxrqLM-20" value="日期时间处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1230" y="2410" width="90" height="30" as="geometry" />
+          <mxGeometry x="-1210" y="2780" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JaJoa6QkZzQ0IBSxrqLM-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JaJoa6QkZzQ0IBSxrqLM-6" target="JaJoa6QkZzQ0IBSxrqLM-18">
+        <mxCell id="JaJoa6QkZzQ0IBSxrqLM-21" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="JaJoa6QkZzQ0IBSxrqLM-88" target="JaJoa6QkZzQ0IBSxrqLM-18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1420" y="1220" as="sourcePoint" />
             <mxPoint x="-1210" y="930" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JaJoa6QkZzQ0IBSxrqLM-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JaJoa6QkZzQ0IBSxrqLM-6" target="JaJoa6QkZzQ0IBSxrqLM-19">
+        <mxCell id="JaJoa6QkZzQ0IBSxrqLM-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JaJoa6QkZzQ0IBSxrqLM-88" target="JaJoa6QkZzQ0IBSxrqLM-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1410" y="1230" as="sourcePoint" />
             <mxPoint x="-1200" y="940" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JaJoa6QkZzQ0IBSxrqLM-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JaJoa6QkZzQ0IBSxrqLM-6" target="JaJoa6QkZzQ0IBSxrqLM-20">
+        <mxCell id="JaJoa6QkZzQ0IBSxrqLM-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JaJoa6QkZzQ0IBSxrqLM-88" target="JaJoa6QkZzQ0IBSxrqLM-20">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1400" y="1240" as="sourcePoint" />
             <mxPoint x="-1190" y="950" as="targetPoint" />
@@ -289,107 +289,110 @@
         <mxCell id="JaJoa6QkZzQ0IBSxrqLM-24" value="&lt;span style=&quot;&quot;&gt;1、&lt;/span&gt;字符合并 CONCAT/CONCAT_WS&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1040" y="1150" width="230" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="JaJoa6QkZzQ0IBSxrqLM-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JaJoa6QkZzQ0IBSxrqLM-25" target="JaJoa6QkZzQ0IBSxrqLM-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JaJoa6QkZzQ0IBSxrqLM-25" value="&lt;span style=&quot;&quot;&gt;2、插入字符&amp;nbsp; INSERT&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1040" y="1180" width="140" height="30" as="geometry" />
+          <mxGeometry x="-1040" y="1240" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JaJoa6QkZzQ0IBSxrqLM-26" value="&lt;div&gt;&lt;span style=&quot;&quot;&gt;3、大写转小写&amp;nbsp; LOWER / LCASE&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1040" y="1210" width="200" height="30" as="geometry" />
+          <mxGeometry x="-1040" y="1580" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JaJoa6QkZzQ0IBSxrqLM-27" value="&lt;div&gt;&lt;span style=&quot;&quot;&gt;4、小写转大写 UPPER / UCASE&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1040" y="1241" width="200" height="30" as="geometry" />
+          <mxGeometry x="-1040" y="1611" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JaJoa6QkZzQ0IBSxrqLM-28" value="&lt;div&gt;&lt;span style=&quot;&quot;&gt;5、字符串截取&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;LEFT/RIGHT/SUBSTRING / SUBSTR&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1040" y="1271" width="310" height="30" as="geometry" />
+          <mxGeometry x="-1040" y="1641" width="310" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JaJoa6QkZzQ0IBSxrqLM-29" value="&lt;div&gt;&lt;span style=&quot;&quot;&gt;6、字符串填充&amp;nbsp; LPAD / RPAD&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1040" y="1301" width="180" height="30" as="geometry" />
+          <mxGeometry x="-1040" y="1671" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JaJoa6QkZzQ0IBSxrqLM-30" value="&lt;div&gt;&lt;span style=&quot;&quot;&gt;7、去除空格 TRIM&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1040" y="1331" width="120" height="30" as="geometry" />
+          <mxGeometry x="-1040" y="1701" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JaJoa6QkZzQ0IBSxrqLM-31" value="8、正则匹配 REGEXP_SUBSTR" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1040" y="1361" width="200" height="30" as="geometry" />
+          <mxGeometry x="-1040" y="1731" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JaJoa6QkZzQ0IBSxrqLM-32" value="9、字符串复制 REPEAT" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1040" y="1391" width="150" height="30" as="geometry" />
+          <mxGeometry x="-1040" y="1761" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JaJoa6QkZzQ0IBSxrqLM-34" value="&lt;span style=&quot;background-color: initial;&quot;&gt;1、&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;绝对值 ABS&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1040" y="1490" width="110" height="30" as="geometry" />
+          <mxGeometry x="-1040" y="1860" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JaJoa6QkZzQ0IBSxrqLM-35" value="&lt;span style=&quot;&quot;&gt;2、反余弦 ACOS&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1040" y="1520" width="120" height="30" as="geometry" />
+          <mxGeometry x="-1040" y="1890" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JaJoa6QkZzQ0IBSxrqLM-36" value="&lt;div&gt;&lt;span style=&quot;&quot;&gt;3、反正弦 ASIN&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1040" y="1550" width="110" height="30" as="geometry" />
+          <mxGeometry x="-1040" y="1920" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JaJoa6QkZzQ0IBSxrqLM-37" value="&lt;div&gt;&lt;span style=&quot;&quot;&gt;4、反正切 ATAN&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1040" y="1581" width="110" height="30" as="geometry" />
+          <mxGeometry x="-1040" y="1951" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JaJoa6QkZzQ0IBSxrqLM-38" value="&lt;div&gt;5、三角余弦 COS&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1040" y="1611" width="120" height="30" as="geometry" />
+          <mxGeometry x="-1040" y="1981" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JaJoa6QkZzQ0IBSxrqLM-39" value="&lt;div&gt;&lt;span style=&quot;&quot;&gt;6、双曲余弦 COSH&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1040" y="1641" width="130" height="30" as="geometry" />
+          <mxGeometry x="-1040" y="2011" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JaJoa6QkZzQ0IBSxrqLM-40" value="&lt;div&gt;&lt;span style=&quot;&quot;&gt;7、三角余切 COT&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1040" y="1671" width="120" height="30" as="geometry" />
+          <mxGeometry x="-1040" y="2041" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JaJoa6QkZzQ0IBSxrqLM-41" value="8、三角正切 SIN" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1040" y="1701" width="110" height="30" as="geometry" />
+          <mxGeometry x="-1040" y="2071" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JaJoa6QkZzQ0IBSxrqLM-42" value="9、双曲正弦 SINH" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1040" y="1731" width="120" height="30" as="geometry" />
+          <mxGeometry x="-1040" y="2101" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JaJoa6QkZzQ0IBSxrqLM-43" value="10、三角正切 TAN" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1040" y="1761" width="120" height="30" as="geometry" />
+          <mxGeometry x="-1040" y="2131" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JaJoa6QkZzQ0IBSxrqLM-51" value="11、双曲正切TANH" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1040" y="1791" width="130" height="30" as="geometry" />
+          <mxGeometry x="-1040" y="2161" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JaJoa6QkZzQ0IBSxrqLM-52" value="12、求余运算 MOD" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1040" y="1821" width="130" height="30" as="geometry" />
+          <mxGeometry x="-1040" y="2191" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JaJoa6QkZzQ0IBSxrqLM-53" value="13、自然字数运算 EXP" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1040" y="1851" width="150" height="30" as="geometry" />
+          <mxGeometry x="-1040" y="2221" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JaJoa6QkZzQ0IBSxrqLM-54" value="14、自然对数运算 LN" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1040" y="1881" width="140" height="30" as="geometry" />
+          <mxGeometry x="-1040" y="2251" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JaJoa6QkZzQ0IBSxrqLM-55" value="15、对数运算 LOG" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1040" y="1911" width="130" height="30" as="geometry" />
+          <mxGeometry x="-1040" y="2281" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JaJoa6QkZzQ0IBSxrqLM-56" value="16、 10为底的对数运算 LOG10" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1040" y="1941" width="190" height="30" as="geometry" />
+          <mxGeometry x="-1040" y="2311" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JaJoa6QkZzQ0IBSxrqLM-57" value="17、角度转弧度 RADIANS" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1040" y="1971" width="170" height="30" as="geometry" />
+          <mxGeometry x="-1040" y="2341" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JaJoa6QkZzQ0IBSxrqLM-58" value="18、平方根计算 SQRT" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1040" y="2001" width="150" height="30" as="geometry" />
+          <mxGeometry x="-1040" y="2371" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JaJoa6QkZzQ0IBSxrqLM-59" value="19、幂运算 POWER" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1040" y="2031" width="130" height="30" as="geometry" />
+          <mxGeometry x="-1040" y="2401" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JaJoa6QkZzQ0IBSxrqLM-60" value="20、四舍五入 ROUND" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1040" y="2061" width="140" height="30" as="geometry" />
+          <mxGeometry x="-1040" y="2431" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JaJoa6QkZzQ0IBSxrqLM-61" value="21、正负判断 SIGN" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1040" y="2091" width="130" height="30" as="geometry" />
+          <mxGeometry x="-1040" y="2461" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JaJoa6QkZzQ0IBSxrqLM-62" value="22、截断小鼠 TRUNC" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1040" y="2121" width="140" height="30" as="geometry" />
+        <mxCell id="JaJoa6QkZzQ0IBSxrqLM-62" value="22、截断小数 TRUNC" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1040" y="2491" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JaJoa6QkZzQ0IBSxrqLM-65" value="&lt;span style=&quot;background-color: initial;&quot;&gt;1、日期时间加减 DATEADD / TIMESTAMPADD&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1040" y="2370" width="280" height="30" as="geometry" />
+          <mxGeometry x="-1040" y="2740" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JaJoa6QkZzQ0IBSxrqLM-66" value="2、日期时间截断 DATEDIFF" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1040" y="2410" width="180" height="30" as="geometry" />
+          <mxGeometry x="-1040" y="2780" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JaJoa6QkZzQ0IBSxrqLM-67" value="3、日期时间提取 EXTRACT" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1040" y="2450" width="170" height="30" as="geometry" />
+          <mxGeometry x="-1040" y="2820" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JaJoa6QkZzQ0IBSxrqLM-68" value="4、时间格式转换 FROMATDATETIME" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1040" y="2490" width="230" height="30" as="geometry" />
+          <mxGeometry x="-1040" y="2860" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JaJoa6QkZzQ0IBSxrqLM-69" value="&lt;div&gt;{&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;transform&quot;: [&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;query&quot;: &quot;select id_1_temp AS id_1,name_1_temp AS name_1,age_1_temp AS age_1,grade_1_temp AS grade_1,score_1_temp AS score_1 from source&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;source_table_name&quot;: &quot;source&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;result_table_name&quot;: &quot;transform1&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;plugin_name&quot;: &quot;Sql&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; }&lt;/div&gt;&lt;div&gt;&amp;nbsp; ],&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;sink&quot;: [&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;password&quot;: &quot;b%hV4QV!&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;database&quot;: &quot;yfzx&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;batch_size&quot;: 1024,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;fenodes&quot;: &quot;10.2.15.33:8030&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;doris.config&quot;: {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;read_json_by_line&quot;: &quot;true&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;format&quot;: &quot;json&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; },&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;source_table_name&quot;: &quot;transform1&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;plugin_name&quot;: &quot;Doris&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;table&quot;: &quot;student222&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;username&quot;: &quot;yfzx&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; }&lt;/div&gt;&lt;div&gt;&amp;nbsp; ],&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;source&quot;: [&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;password&quot;: &quot;Ushew^we123&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;driver&quot;: &quot;org.postgresql.Driver&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;query&quot;: &quot;select \&quot;id_1\&quot; AS \&quot;id_1_temp\&quot;,\&quot;name_1\&quot; AS \&quot;name_1_temp\&quot;,\&quot;age_1\&quot; AS \&quot;age_1_temp\&quot;,\&quot;grade_1\&quot; AS \&quot;grade_1_temp\&quot;,\&quot;score_1\&quot; AS \&quot;score_1_temp\&quot; from \&quot;postgres\&quot;.\&quot;test\&quot;.\&quot;student1\&quot;&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;result_table_name&quot;: &quot;source&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;plugin_name&quot;: &quot;Jdbc&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;user&quot;: &quot;postgres&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;url&quot;: &quot;jdbc:postgresql://10.2.13.12:5432/postgres&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; }&lt;/div&gt;&lt;div&gt;&amp;nbsp; ],&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;env&quot;: {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &quot;job.mode&quot;: &quot;BATCH&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &quot;execution.parallelism&quot;: 1&lt;/div&gt;&lt;div&gt;&amp;nbsp; }&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="-2510" y="-640" width="620" height="650" as="geometry" />
@@ -429,6 +432,21 @@
         </mxCell>
         <mxCell id="JaJoa6QkZzQ0IBSxrqLM-85" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,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;" vertex="1" parent="1">
           <mxGeometry x="-1341.3999999999999" y="30" width="262.8" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="JaJoa6QkZzQ0IBSxrqLM-86" value="&lt;span class=&quot;hljs-keyword&quot;&gt;INSERT&lt;/span&gt;(originalString, startInt, lengthInt, addString)&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;li&gt;&lt;strong&gt;originalString&lt;/strong&gt;：原始字符串（可以是列或字面量字符串）或者字段名。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;startInt&lt;/strong&gt;：指定开始插入的位置（1为从第一个字符开始）。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;lengthInt&lt;/strong&gt;：指定在原始字符串中从 &lt;code&gt;startInt&lt;/code&gt; 位置开始，删除的字符数。若为 &lt;code&gt;0&lt;/code&gt;，则不进行插入，也就是说至少为1。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;addString&lt;/strong&gt;：要插入到原始字符串的字符串&lt;/li&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-680" y="1205" width="660" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="JaJoa6QkZzQ0IBSxrqLM-88" value="Sql中处理类型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1730" y="1500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JaJoa6QkZzQ0IBSxrqLM-89" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="JaJoa6QkZzQ0IBSxrqLM-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1880" y="1214" as="sourcePoint" />
+            <mxPoint x="-1210" y="930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JaJoa6QkZzQ0IBSxrqLM-90" value="数据 / 字段在处理过后 需要 AS 回原本的字段面&lt;div&gt;否则读取不到处理后的数据 ，例如：&lt;br&gt;CONCAT(dstrng_method,&#39;^_^&#39;) AS dstrng_method&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1700" y="1440" width="290" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
